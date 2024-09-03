@@ -68,7 +68,7 @@ Context
 ### Notes
 - Consider how you will package this and send to us
 -  We will score it on:
-  - Complete to spec
+  - complete to spec
   - Code was readable and used TypeScript well
   - Was easy to setup and run by the reviewers
   - Quality work
