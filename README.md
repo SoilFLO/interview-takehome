@@ -46,10 +46,10 @@ Context
 - A ticket has a number that is incremented per site
 - A ticket has one of the following materials
 
-  - Table 1
-  - Table 1 + EX
-  - Table 2
-  - Contaminated
+  - Soil
+  - Rubble
+  - Asphat
+  - Contaminated materials
 
 - Create an API endpoint that creates tickets in bulk for a truck
   - Two tickets cannot have the same dispatched time for the same truck
