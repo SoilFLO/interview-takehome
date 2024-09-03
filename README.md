@@ -44,8 +44,7 @@ Context
 - A truck can have many tickets and a ticket can only be dispatched from one truck
 - A ticket has a time it was dispatched
 - A ticket has a number that is incremented per site
-- A ticket has one of the following materials
-
+- A ticket has one of the following materials:
   - Soil
   - Rubble
   - Asphat
@@ -58,7 +57,7 @@ Context
   - sites
   - date range
   - text search
-  - material.
+  - material
 - Response data should include the following:
   - Name of the site
   - License plate of the truck
