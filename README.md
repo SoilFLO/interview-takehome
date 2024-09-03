@@ -68,13 +68,9 @@ Context
 ### Notes
 
 -  We will score it on:
-  - Complete to spec
-  - Code was readable and used TypeScript well
-  - Was easy to setup and run by the reviewers
-  - Quality work
-  - Observation work
-  -   - Name of the site
-  - License plate of the truck
-  - Ticket number
-  - Ticket dispatched time
-  - Name of material
+   - Complete to spec
+   - Code was readable and used TypeScript well
+   - Was easy to setup and run by the reviewers
+   - Quality work
+   - Observation work
+
