@@ -66,10 +66,15 @@ Context
   - Name of material
 
 ### Notes
-- Consider how you will package this and send to us
+
 -  We will score it on:
-  - complete to spec
+  - Complete to spec
   - Code was readable and used TypeScript well
   - Was easy to setup and run by the reviewers
   - Quality work
-  - Observation work 
+  - Observation work
+  -   - Name of the site
+  - License plate of the truck
+  - Ticket number
+  - Ticket dispatched time
+  - Name of material
