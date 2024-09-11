@@ -31,7 +31,7 @@ trucks: {
 Context
 
 - There are ~100,000 construction sites in the SitesJSONData file
-- A Site is a place/location that sends or receives materials e.g. Soil, Rubble
+- A Site is a place/location that sends or receives materials e.g. Soil
 - For Construction, Soil is often removed to build the foundations, and in some cases soil is needed to level a building
 - A construction site can have many dump trucks running in a single day. Removing soil/materials from the site and being transferred to another site
 - There are ~1000 trucks in the TrucksJSONData file
