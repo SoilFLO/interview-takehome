@@ -44,11 +44,7 @@ Context
 - A truck can have many tickets and a ticket can only be dispatched from one truck
 - A ticket has a time it was dispatched
 - A ticket has a number that is incremented per site
-- A ticket has one of the following materials:
-  - Soil
-  - Rubble
-  - Asphat
-  - Contaminated materials
+- A ticket has a material that is `Soil`
 
 - Create an API endpoint that creates tickets in bulk for a truck
   - Two tickets cannot have the same dispatched time for the same truck
@@ -56,8 +52,6 @@ Context
 - Create a fetch endpoint for all tickets that can be filtered by:
   - sites
   - date range
-  - text search
-  - material
 - Response data should include the following:
   - Name of the site
   - License plate of the truck
